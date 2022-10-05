@@ -251,18 +251,6 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
   - Pythonic code
   - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 
-### Java
-
-Your choice:
-
-- Goodrich, Tamassia, Goldwasser
-  - [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
-- Sedgewick and Wayne:
-  - [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
-  - Free Coursera course that covers the book (taught by the authors!):
-    - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
-    - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
-
 ### C++
 
 Your choice:

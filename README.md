@@ -178,8 +178,8 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - Following videos may help you overcome this insecurity:
-  - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-  - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+  - ✅ [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+  - ✅ [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## A Note About Video Resources
 

@@ -174,50 +174,6 @@ thousands of associative arrays, but I never created data structures from scratc
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using GitHub's special markdown flavor, including tasks lists to track progress.
-
-- [More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-### If you don't want to use git
-
-On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
-
-If you're open in a code editor that understands markdown, you'll see everything formatted nicely.
-
-![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
-
-### If you're comfortable with git
-
-Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
-1. **_Fork the GitHub repo:_** `https://github.com/jwasham/coding-interview-university` by clicking on the Fork button.
-
-   ![Fork the GitHub repo](https://d3j2pkmjtin6ou.cloudfront.net/fork-button.png)
-
-1. Clone to your local repo:
-
-   ```
-   git clone git@github.com:<your_github_username>/coding-interview-university.git
-   cd coding-interview-university
-   git checkout -b progress
-   git remote add jwasham https://github.com/jwasham/coding-interview-university
-   git fetch --all
-   ```
-
-1. Mark all boxes with X after you completed your changes:
-
-   ```
-   git add .
-   git commit -m "Marked x"
-   git rebase jwasham/main
-   git push --set-upstream origin progress
-   git push --force
-   ```
-
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
@@ -286,7 +242,7 @@ You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
 
-- [Choose the Right Language for Your Coding Interview](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/)
+- ✅ [Choose the Right Language for Your Coding Interview](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/) | **Swift, Objective-C**
 
 [See language-specific resources here](programming-language-resources.md)
 
